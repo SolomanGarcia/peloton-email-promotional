@@ -4,3 +4,6 @@ Woman1 https://i.ibb.co/gt4G3LN/peloton-Woman-Pink.png
 Man https://i.ibb.co/zQ7mz5x/peloton-Man.png
 Woman2 https://i.ibb.co/D7Fp5bM/peloton-Woman2.png
 GIF https://i.ibb.co/wyDV3wq/peloton.gif
+Facebook https://i.ibb.co/7yT4qsG/peloton-Fb.png
+Instagram https://i.ibb.co/JCj2zqx/peloton-Ig.png
+Twitter https://i.ibb.co/yWd8wdr/peloton-Tw.png
