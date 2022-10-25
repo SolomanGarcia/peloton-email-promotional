@@ -3,3 +3,4 @@ Hero https://i.ibb.co/QYyGSj5/peloton-Hero.png
 Woman1 https://i.ibb.co/gt4G3LN/peloton-Woman-Pink.png
 Man https://i.ibb.co/zQ7mz5x/peloton-Man.png
 Woman2 https://i.ibb.co/D7Fp5bM/peloton-Woman2.png
+GIF https://i.ibb.co/wyDV3wq/peloton.gif
